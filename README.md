@@ -1,6 +1,6 @@
 # workplace_manager
 
-Workpace Manager
+Worklpace Manager helps you to manage your organisation.
 
 ## Getting Started
 
